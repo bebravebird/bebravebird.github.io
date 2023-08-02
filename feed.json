@@ -9,19 +9,5 @@
         "name": "Melissa Hayden"
     },
     "items": [
-        {
-            "id": "https://bebravebird.com/example-post/index.html",
-            "url": "https://bebravebird.com/example-post/index.html",
-            "title": "Example post",
-            "summary": "This is just an example post.",
-            "content_html": "<p>This is just an example post.</p>",
-            "author": {
-                "name": "Melissa Hayden"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-08-01T20:38:54-05:00",
-            "date_modified": "2023-08-01T20:38:54-05:00"
-        }
     ]
 }
